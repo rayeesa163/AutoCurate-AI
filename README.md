@@ -16,7 +16,7 @@
 
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/853c5ec9-d1ab-4279-a782-1d6c9963cf93)
-
+vedio link: https://www.loom.com/share/de0b58ff5f83436a878ca739211331e3
 
 ---
 
