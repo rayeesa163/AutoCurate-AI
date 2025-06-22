@@ -1,6 +1,6 @@
 # 🧠 AutoCurate AI
 
-**AutoCurate AI** is an intelligent Streamlit-based dashboard that combines **real-time news summarization** and **AI-based forecasting** into a single interactive application. Designed to showcase NLP + Data Analysis + Forecasting skills in one project — ideal for high-package AI/ML/Data roles.
+**AutoCurate AI** is an intelligent Streamlit-based dashboard that combines **real-time news summarization** and **AI-based forecasting** into a single interactive application. Designed to showcase NLP + Data Analysis + Forecasting skills in one project.
 
 ---
 
